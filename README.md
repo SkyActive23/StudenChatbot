@@ -1,1 +1,1 @@
-# StudenChatbot
+# StudentChatbot
